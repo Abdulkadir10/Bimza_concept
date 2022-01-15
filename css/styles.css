@@ -1,0 +1,167 @@
+/*TAG ELEMENT*/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Righteous', cursive;
+  color: white;
+  padding: 50px;
+}
+
+h1:hover {
+  color: yellow;
+}
+
+h3 {
+  line-height: 2;
+  font-family: 'Aclonica', sans-serif;
+  color: #4C0027;
+}
+
+h2 {
+  line-height: 2;
+  color: #4C0027;
+  font-family: 'Bubblegum Sans', cursive;
+  color: #4C0027;
+}
+
+p {
+  font-family: font-family: 'Genos', sans-serif;line-height: 2
+}
+
+.profile{width: 50%;width: 50px auto 50px auto}
+.botanist{width: 50%;
+margin:auto;}
+
+.first-p {
+  font-family: 'IM Fell English SC', serif;
+  line-height: 2;
+  color: white;
+  font-weight: bold;
+}
+
+hr {margin: 30px auto 30px auto;
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-width: 1 0px;
+  color: #4C0027;
+}
+
+/*PICTURES ELEMENT*/
+.pololo {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  outline-style: solid;
+  outline-color: white;
+  outline-width: medium;
+}
+
+.bayo {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  outline-style: solid;
+  outline-color: white;
+  outline-width: medium;
+}
+
+.Yusuf {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  outline-style: solid;
+  outline-color: #4C0027;
+  outline-width: medium;
+
+}
+
+.Ibrahim {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  outline-style: solid;
+  outline-color: #4C0027;
+  outline-width: medium;
+  float:  right;
+  margin-left: : 30px
+}
+
+.Jumoke {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  outline-style: solid;
+  outline-color: #4C0027;
+  outline-width: medium;
+  float: left;
+  margin-right: 30px
+}
+
+/**CONTAINERS*/
+.top_container {
+  padding: 100px;
+  position: relative;
+  background-color: #4C0027;
+  position: relative;
+}
+
+.middle_container {
+  background-image: url(Images/background.png);
+  padding: 50px;
+  background-color: white;
+}
+
+.Skills-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+.bottom_container {
+  background-color: #072227;
+  padding: 50px;
+}
+
+.footer {
+  color: white; text-decoration: none;
+}
+.footer:hover{color: yellow; }
+a{margin: 30px 30px}
+
+.copyright {
+  color: white
+}
+.BUTTON_VTX {
+   -webkit-border-radius: 31px;
+   -moz-border-radius: 31px;
+   border-radius: 31px;
+   color: #FFFFFF;
+   font-family: font-family: 'Genos', sans-serif;
+   font-size: 32px;
+   font-weight: 200;
+   padding: 21px;
+   background-color: #013013;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_VTX:hover {
+   background: #14489B;
+   border: solid #000000 0;
+   -webkit-border-radius: 1px;
+   -moz-border-radius: 1px;
+   border-radius: 1px;
+   text-decoration: none;
+}
